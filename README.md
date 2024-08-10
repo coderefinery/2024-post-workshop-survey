@@ -5,6 +5,7 @@ Post workshop survey sent out to workshop participants from 2022 and 2023.
 - Number of delivered submissions: 129
 - Survey was open from 2024-02-14 to 2024-04-23
 - [Questions](form.pdf)
+- [Blog post](https://coderefinery.org/blog/2024/08/10/post-workshop-survey/)
 
 
 ## Notebook
