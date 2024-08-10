@@ -29,91 +29,91 @@ Post workshop survey sent out to workshop participants from 2022 and 2023.
 ## Alt-text for plots
 
 In your estimate, how much time per month have you saved as a result of attending a CodeRefinery workshop?
-- No time saved: 20 responses
-- Minutes: 32 responses
-- Hours: 59 responses
-- Days: 17 responses
+- No time saved: 20
+- Minutes: 32
+- Hours: 59
+- Days: 17
 
 After attending the workshop, would you judge your code to be more reusable or not more reusable?
-- My code is more reusable: 90 responses
-- My code is not more reusable: 9 responses
-- Not sure: 30 responses
+- My code is more reusable: 90
+- My code is not more reusable: 9
+- Not sure: 30
 
 After attending the workshop, has it become easier or not for you to collaborate on software development with your colleagues and collaborators?
-- Collaboration is easier: 91 responses
-- Collaboration is not easier: 6 responses
-- Not sure: 32 responses
+- Collaboration is easier: 91
+- Collaboration is not easier: 6
+- Not sure: 32
 
 Have you introduced one or more of your colleagues to new tools or practices as a result of the workshop?
-- I have introduced one or more of my colleagues to new tools or practices: 79 responses
-- I have not introduced one or more of my colleagues to new tools or practices: 33 responses
-- Not sure: 16 responses
+- I have introduced one or more of my colleagues to new tools or practices: 79
+- I have not introduced one or more of my colleagues to new tools or practices: 33
+- Not sure: 16
 
 How likely is it that you would recommend CodeRefinery workshop to a friend or colleague?
-- 10: 64 responses
-- 9: 21 responses
-- 8: 24 responses
-- 7: 11 responses
-- 6: 3 responses
-- 5: 1 responses
-- 4: 1 responses
-- 3: 3 responses
-- 0: 1 responses
+- 10: 64
+- 9: 21
+- 8: 24
+- 7: 11
+- 6: 3
+- 5: 1
+- 4: 1
+- 3: 3
+- 0: 1
 
 Would you prefer pre-recorded lectures, live online teaching, or in-person teaching?
-- I would prefer pre-recorded lectures combined with live discussions: 36 responses
-- I would prefer online teaching (lectures are live): 62 responses
-- I would prefer in-person teaching: 30 responses
+- I would prefer pre-recorded lectures combined with live discussions: 36
+- I would prefer online teaching (lectures are live): 62
+- I would prefer in-person teaching: 30
 
 What would be the ideal format for you?
-- One week with half days (3 or 4 half-days): 32 responses
-- One week with full days (3 or 4 full days): 13 responses
-- Two weeks (6 half-days): 25 responses
-- Two weeks (6 half-days) but split into two separate logical courses: 24 responses
-- Lesson series over 6 weeks with one session per week: 17 responses
-- Lessons are available in a catalogue of videos and can be followed anytime: 18 responses
+- One week with half days (3 or 4 half-days): 32
+- One week with full days (3 or 4 full days): 13
+- Two weeks (6 half-days): 25
+- Two weeks (6 half-days) but split into two separate logical courses: 24
+- Lesson series over 6 weeks with one session per week: 17
+- Lessons are available in a catalogue of videos and can be followed anytime: 18
 
 Participation style
-- Individual learner: 95 responses
-- Learner in a team: 15 responses
-- Team leader/ helper (online): 9 responses
-- Team leader/ helper (in person): 8 responses
+- Individual learner: 95
+- Learner in a team: 15
+- Team leader/ helper (online): 9
+- Team leader/ helper (in person): 8
 
 Career stage
-- Undergraduate student: 3 responses
-- Graduate student/ PhD student: 63 responses
-- Postdoc: 18 responses
-- Researcher: 19 responses
-- Professor: 4 responses
-- Research software engineer/ Scientific programmer: 12 responses
-- Industry: 4 responses
-- Other: 6 responses
+- Undergraduate student: 3
+- Graduate student/ PhD student: 63
+- Postdoc: 18
+- Researcher: 19
+- Professor: 4
+- Research software engineer/ Scientific programmer: 12
+- Industry: 4
+- Other: 6
 
 Academic discipline
-- Physical Sciences: 30 responses
-- Earth and Related Environmental Sciences: 18 responses
-- Biological Sciences: 13 responses
-- Chemical Sciences: 11 responses
-- Computer and Information Sciences: 11 responses
-- Other Engineering and Technologies: 6 responses
-- Health Sciences: 5 responses
-- Psychology: 4 responses
-- Mathematics: 4 responses
-- Mechanical Engineering: 3 responses
-- Civil Engineering: 3 responses
-- Environmental Engineering: 3 responses
-- Medical Engineering: 2 responses
-- Medical Biotechnology: 2 responses
-- Clinical Medicine: 2 responses
-- Other Medical and Health Sciences: 2 responses
-- Other: 2 responses
-- Other Social Sciences: 2 responses
-- Chemical Engineering: 1 responses
-- Electrical Engineering, Electronic Engineering, Information Engineering: 1 responses
-- Economics and Business: 1 responses
-- History and Archaeology: 1 responses
-- Nano-technology: 1 responses
-- Other Natural Sciences: 1 responses
+- Physical Sciences: 30
+- Earth and Related Environmental Sciences: 18
+- Biological Sciences: 13
+- Chemical Sciences: 11
+- Computer and Information Sciences: 11
+- Other Engineering and Technologies: 6
+- Health Sciences: 5
+- Psychology: 4
+- Mathematics: 4
+- Mechanical Engineering: 3
+- Civil Engineering: 3
+- Environmental Engineering: 3
+- Medical Engineering: 2
+- Medical Biotechnology: 2
+- Clinical Medicine: 2
+- Other Medical and Health Sciences: 2
+- Other: 2
+- Other Social Sciences: 2
+- Chemical Engineering: 1
+- Electrical Engineering, Electronic Engineering, Information Engineering: 1
+- Economics and Business: 1
+- History and Archaeology: 1
+- Nano-technology: 1
+- Other Natural Sciences: 1
 
 
 ## Free-form answers
