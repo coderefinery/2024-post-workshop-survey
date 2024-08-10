@@ -1,3 +1,7 @@
+[![nbviewer badge](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.org/github/coderefinery/2024-post-workshop-survey/blob/main/notebook/survey.ipynb)
+[![link to Zenodo/DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13292363.svg)](https://doi.org/10.5281/zenodo.13292363)
+
+
 # 2024-post-workshop-survey
 
 Post workshop survey sent out to workshop participants from 2022 and 2023.
@@ -6,11 +10,6 @@ Post workshop survey sent out to workshop participants from 2022 and 2023.
 - Survey was open from 2024-02-14 to 2024-04-23
 - [Questions](form.pdf)
 - [Blog post](https://coderefinery.org/blog/2024/08/10/post-workshop-survey/)
-
-
-## Notebook
-
-[![nbviewer badge](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.org/github/coderefinery/2024-post-workshop-survey/blob/main/notebook/survey.ipynb)
 
 
 ## Plots
